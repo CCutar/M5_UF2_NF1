@@ -1,7 +1,7 @@
-public class CheckNumber {
+public class CheckNumber { // Especificamos la clase
     private double number;
 
-    public CheckNumber(double num) {
+    public CheckNumber(double num) { //
         this.number = num;
     }
 
